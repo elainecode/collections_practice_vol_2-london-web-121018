@@ -152,7 +152,7 @@ describe 'collections practice vol 2.' do
 
   end
 
-  describe '#find_cool' do
+describe '#find_cool' do
 
     # Question 7
 
@@ -161,6 +161,7 @@ describe 'collections practice vol 2.' do
     end
 
   end
+
 
   describe '#organize_schools' do
 
